@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.12 (2026-02-24)
+
+### Bug Fixes
+
+- ↑ pp tk
+  ([`e4b89e8`](https://github.com/PyMoX-fr/Kit-2026/commit/e4b89e81ea98a01cb7a28187b37810d44bbc9f1e))
+
+
 ## v1.0.11 (2026-02-24)
 
 ### Bug Fixes
