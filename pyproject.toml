@@ -1,9 +1,9 @@
 [project]
-name = "pymox_tools"
+name = "pymox_kit_2026"
 dynamic = ["version"]
 # version = "v0.1.2"  # sera géré automatiquement par semantic-release
 # version = "0.0.6"  # valeur placeholder, ignorée par semantic-release
-description = "Un module avec plein d'outils utiles pour devs en PyMoX (Py←thon - Mo←jo - flet→X)"
+description = "Un module avec plein d'outils utiles pour devs en PyMoX (Py←thon - Mo←jo - flet→X) en 2026"
 authors = [{ name = "GrCOTE7", email = "GrCOTE7@gmail.com" }]
 # readme = {file = "README.md", encoding = "utf-8"}
 readme = "README.md"
@@ -29,7 +29,7 @@ build-backend = "setuptools.build_meta"
 [tool.semantic_release]
 tag_format = "v{version}"
 version_variable = "src/kit/__init__.py:__version__"
-repository = "https://github.com/GrCOTE7/Kit2"
+repository = "https://github.com/PyMoX-fr/Kit-2026"
 hvcs = "github"
 github_token = "env:GH_TOKEN"
 

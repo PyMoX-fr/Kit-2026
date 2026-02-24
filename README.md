@@ -31,6 +31,12 @@ Les insérer dans dépôt GH: Settings / Secrets... / Actions / New Repo secret
 Mettre GH TK dans .env
 (GH PP que si on veut buid + upload depuis local)
 
+### Adapter les params GH repo name & Pypi project name
+
+Kit-2026\.github\workflows\publish.yml
+et
+Kit-2026\pyproject.toml
+
 ### Build local
 
 ```bash
