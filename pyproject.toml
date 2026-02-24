@@ -1,5 +1,5 @@
 [project]
-name = "pymox_kit_2026"
+name = "pymox_kit"
 dynamic = ["version"]
 # version = "v0.1.2"  # sera géré automatiquement par semantic-release
 # version = "0.0.6"  # valeur placeholder, ignorée par semantic-release
