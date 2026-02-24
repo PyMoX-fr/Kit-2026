@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.2 (2026-02-24)
+
+### Bug Fixes
+
+- ↑ params
+  ([`57c8656`](https://github.com/PyMoX-fr/Kit-2026/commit/57c8656a22a73aef0e4bc2a03cc588212c4baeea))
+
+
 ## v1.0.1 (2026-02-24)
 
 
