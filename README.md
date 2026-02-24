@@ -1,5 +1,7 @@
 # PyMoX-Tools
 
+Go 1.0.1
+
 Trousse à outils utiles pour devs en PyMoX
 
 ---
