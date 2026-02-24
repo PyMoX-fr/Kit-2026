@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.11 (2026-02-24)
+
+### Bug Fixes
+
+- ↑ Doc
+  ([`3a247e2`](https://github.com/PyMoX-fr/Kit-2026/commit/3a247e2f5ab0340c77dc008eb6a8b58b29e98990))
+
+
 ## v1.0.2 (2026-02-24)
 
 ### Bug Fixes
